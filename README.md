@@ -1,14 +1,4 @@
-1. Dependencias requeridas para este template:
-
-- npm i express dotenv cors pg pg-hstore sequelize morgan express-validator express-rate-limit helmet xss-clean hpp jsonwebtoken bcryptjs
-
-2. Hacer el archivo .env
-
-3.
-
----
-
-1. Establecer de modelos
-2. Establecer relaciones entre los modelos
-3. Elaborar las rutas
-4. Generar las llaves privadas en caso de usar el JWT
+# ModuloNodeJS-proyecto2
+Academlo Meals, realizado durante las clases de NodeJS
+# Link de acceso a la descripción del proyecto
+https://drive.google.com/file/d/11Zcw6PE2WGno7MDAdF3MTYVrAjCMTLWE/view?usp=sharing
